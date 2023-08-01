@@ -1,10 +1,10 @@
 <?php
 // First, run 'composer require pusher/pusher-php-server'
-$MY_CHANNEL="video-chat-pusher";
-$APP_ID = "1643245";
-$APP_KEY = "5ef4ff1ffb434dcb671b";
-$APP_SECRET = "fc74e3343e89af1c81d4";
-$APP_CLUSTER = "ap2";
+$MY_CHANNEL="MY_CHANNEL";
+$APP_ID = "APP_ID";
+$APP_KEY = "APP_KEY";
+$APP_SECRET = "APP_SECRET";
+$APP_CLUSTER = "APP_CLUSTER";
 
 $message=$_POST['message'];
 
