@@ -49,9 +49,9 @@
         var user_id="<?php echo $user_id; ?>";
         var user_timestamp="<?php echo $user_timestamp; ?>";
     
-        var MY_CHANNEL="video-chat-pusher";
-        var APP_KEY = "5ef4ff1ffb434dcb671b";
-        var APP_CLUSTER = "ap2";
+        var MY_CHANNEL="MY_CHANNEL";
+        var APP_KEY = "APP_KEY";
+        var APP_CLUSTER = "APP_CLUSTER";
 
         var message;
         var isOfferer;
